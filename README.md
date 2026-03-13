@@ -142,7 +142,6 @@ See:
 
 The factual backbone for the station summaries in this starter build comes primarily from Priyom station profiles and schedules. General framing for numerology and number symbolism is drawn from Encyclopaedia Britannica.
 
-## License note
+## License
 
-Add a license file that matches how you want others to reuse the material.  
-For open research, **MIT** or **CC BY 4.0** are both common choices depending on whether you want to emphasize code-style reuse or text/data attribution.
+This repository is licensed under the **MIT License**. See [`LICENSE`](LICENSE).
