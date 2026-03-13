@@ -37,9 +37,10 @@ This repository keeps those three layers separate.
 2. [`docs/terminology.md`](docs/terminology.md)
 3. [`docs/evidence-scale.md`](docs/evidence-scale.md)
 4. [`docs/symbolism-framework.md`](docs/symbolism-framework.md)
-5. station library index in [`stations/README.md`](stations/README.md)
-6. station pages in [`stations/`](stations/)
-7. motif pages in [`motifs/`](motifs/)
+5. [`docs/what-we-know-and-next.md`](docs/what-we-know-and-next.md)
+6. station library index in [`stations/README.md`](stations/README.md)
+7. station pages in [`stations/`](stations/)
+8. motif pages in [`motifs/`](motifs/)
 
 ## Folder structure
 
@@ -58,6 +59,10 @@ number-stations-numerology/
 │  ├─ schedule-patterns.csv
 │  ├─ frequency-patterns.csv
 │  └─ hypotheses.csv
+├─ data/templates/
+│  └─ message-samples.template.csv
+├─ scripts/
+│  └─ digital_root_report.py
 ├─ stations/
 │  ├─ e03.md
 │  ├─ e07.md
