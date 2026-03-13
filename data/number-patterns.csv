@@ -1,0 +1,6 @@
+pattern_id,station_id,pattern_type,pattern_label,example,evidence_level,interpretive_theme,source_url
+np-001,station-e03,grouping,paired-five-digit-groups,200 paired 5-digit groups in a broadcast format,4,"doubling, redundancy, order",https://priyom.org/number-stations/english/e03
+np-002,station-e03,signal-marker,six-chimes,6 chimes before and after key sections,3,"threshold, boundary, transition",https://priyom.org/number-stations/english/e03
+np-003,station-hm01,counter,daily-counter-progression,"counter stays 1 for first two days, then increments until replacement after 8",4,"renewal cycle, accumulation",https://priyom.org/number-stations/digital/hm01
+np-004,station-v07,repetition,triple-transmission-cycle,same message sent three times 20 minutes apart,4,"triad, emphasis, sealing",https://priyom.org/number-stations/other/v07
+np-005,station-v07,null-marker,zero-heavy-outro,000 000,4,"nullity, closure, emptiness",https://priyom.org/number-stations/operators/russian-7

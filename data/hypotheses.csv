@@ -1,0 +1,5 @@
+hypothesis_id,scope,statement,evidence_level,status,testing_method,notes
+h-001,V07,The three-part V07 relay invites symbolic triadic reading but is probably operational first.,3,open,compare null versus full messages and missed third transmissions,Good example of pattern > interpretation separation
+h-002,HM01,Counter progression in HM01 can be modeled as a renewal cycle rather than random numbering.,3,open,log counters across consecutive days,Could later support symbolic cycle analysis
+h-003,E03,E03's paired 5-digit body structure supports a 'doubling' motif in addition to standard cipher formatting.,2,open,compare with other 5-digit voice stations,Meaning remains speculative
+h-004,cross-station,Zero-heavy endings are more common in null or closure contexts than in active traffic bodies.,2,open,tag and compare outro patterns across stations,Could become a reusable repo-wide motif

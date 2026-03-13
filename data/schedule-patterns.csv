@@ -1,0 +1,4 @@
+schedule_pattern_id,station_id,pattern_name,documented_behavior,evidence_level,possible_non_symbolic_explanation,interpretive_note,source_url
+sp-001,station-e03,dense-daily-grid,E03 made multiple daily broadcasts in a stable schedule pattern,4,global coverage and target-area timing,"repetition can be read symbolically, but procedure is the stronger explanation",https://priyom.org/number-stations/english/e03
+sp-002,station-hm01,daily-message-rotation,HM01 rotates messages on a daily basis,4,message freshness and operational cycling,symbolically readable as renewal,https://priyom.org/number-stations/digital/hm01
+sp-003,station-v07,three-part-relay,V07 transmits the same traffic three times at 20-minute spacing,4,propagation reliability and recipient access,triadic repetition may still carry symbolic interest,https://priyom.org/number-stations/other/v07

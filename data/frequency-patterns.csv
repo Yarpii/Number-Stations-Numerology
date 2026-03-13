@@ -1,0 +1,4 @@
+frequency_pattern_id,station_id,pattern_name,documented_behavior,evidence_level,interpretive_note,source_url
+fp-001,station-e03,multi-frequency-slotting,single E03 schedule entries often list multiple frequencies in one time slot,4,layered coverage can also be read as numeric multiplicity,https://priyom.org/number-stations/english/e03/schedule
+fp-002,station-v07,stepped-frequency-repeat,each successive repeat is typically 1-2 MHz lower or higher,4,a numeric stepping motif is built into the relay cycle,https://priyom.org/number-stations/other/v07
+fp-003,station-hm01,shared-transmission-centers,"HM01 shares sites with Radio Havana Cuba, creating crossover quirks",3,"not symbolic by itself, but relevant when separating pattern from noise",https://priyom.org/number-stations/digital/hm01

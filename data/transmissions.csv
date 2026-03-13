@@ -1,0 +1,6 @@
+transmission_id,station_id,date_utc,time_utc,frequency_khz,slot_position,message_type,observed_numeric_structure,notes,source_url
+tx-e03-mon-1200,station-e03,,12:00,14487,1 of Monday sequence,scheduled slot,3 listed frequencies in one slot; part of regular daily pattern,Based on archived schedule summary,https://priyom.org/number-stations/english/e03/schedule
+tx-e03-mon-2100,station-e03,,21:00,9251,late slot,scheduled slot,repeat-style scheduling across evening block,Useful for schedule-pattern analysis,https://priyom.org/number-stations/english/e03/schedule
+tx-hm01-generic-1,station-hm01,,,,daily rotating slot,message rotation,"counter starts at 1 for new message, remains 1 on second day, increments from day three onward",Derived from station operation notes,https://priyom.org/number-stations/digital/hm01
+tx-v07-cycle-1,station-v07,,,,first of three,full or null message,3 identical transmissions 20 minutes apart; third omitted for null message,Core structural feature of V07,https://priyom.org/number-stations/other/v07
+tx-v07-2026-02-08,station-v07,2026-02-08,,,Sunday schedule entry,full message,Header plus long sequence of 5-digit groups logged on Priyom,Useful seed for deeper parsing,https://priyom.org/number-stations/other/v07/sunday
