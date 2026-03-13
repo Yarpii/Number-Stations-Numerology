@@ -4,3 +4,8 @@ np-002,station-e03,signal-marker,six-chimes,6 chimes before and after key sectio
 np-003,station-hm01,counter,daily-counter-progression,"counter stays 1 for first two days, then increments until replacement after 8",4,"renewal cycle, accumulation",https://priyom.org/number-stations/digital/hm01
 np-004,station-v07,repetition,triple-transmission-cycle,same message sent three times 20 minutes apart,4,"triad, emphasis, sealing",https://priyom.org/number-stations/other/v07
 np-005,station-v07,null-marker,zero-heavy-outro,000 000,4,"nullity, closure, emptiness",https://priyom.org/number-stations/operators/russian-7
+np-006,station-e07,grouping,fixed-size-group-traffic,recurring fixed-length number groups in routine E07 messages,4,procedural cadence and repeatability,https://priyom.org/number-stations/english/e07
+np-007,station-v02a,header,id-plus-group-count-header,V02a headers include identifier and group-count fields before body,4,numeric metadata before payload,https://priyom.org/number-stations/other/v02a
+np-008,station-m12,mode-bridge,morse-group-segmentation,M12 uses grouped coded traffic in keyed form rather than speech,3,numeric motif survives mode shift,https://priyom.org/number-stations/morse/m12
+np-009,station-xpa,callsign,recurring-callsign-families,XPA logs show repeated call-sign families across schedules,4,anchor motifs and identity persistence,https://priyom.org/number-stations/other/xpa
+np-010,station-sk01,hybrid-marker,session-boundary-markers,SK01-style hybrid traffic includes machine-like session boundaries,2,boundary numerics in hybrid channels,https://priyom.org/number-stations/digital/sk01
