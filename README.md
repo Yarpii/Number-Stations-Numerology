@@ -37,8 +37,10 @@ This repository keeps those three layers separate.
 2. [`docs/terminology.md`](docs/terminology.md)
 3. [`docs/evidence-scale.md`](docs/evidence-scale.md)
 4. [`docs/symbolism-framework.md`](docs/symbolism-framework.md)
-5. station pages in [`stations/`](stations/)
-6. motif pages in [`motifs/`](motifs/)
+5. [`docs/what-we-know-and-next.md`](docs/what-we-know-and-next.md)
+6. station library index in [`stations/README.md`](stations/README.md)
+7. station pages in [`stations/`](stations/)
+8. motif pages in [`motifs/`](motifs/)
 
 ## Folder structure
 
@@ -57,10 +59,19 @@ number-stations-numerology/
 │  ├─ schedule-patterns.csv
 │  ├─ frequency-patterns.csv
 │  └─ hypotheses.csv
+├─ data/templates/
+│  └─ message-samples.template.csv
+├─ scripts/
+│  └─ digital_root_report.py
 ├─ stations/
 │  ├─ e03.md
+│  ├─ e07.md
 │  ├─ hm01.md
-│  └─ v07.md
+│  ├─ m12.md
+│  ├─ sk01.md
+│  ├─ v02a.md
+│  ├─ v07.md
+│  └─ xpa.md
 ├─ motifs/
 │  ├─ mirrored-groups.md
 │  ├─ repeated-triples.md
@@ -93,16 +104,23 @@ Numerology can be used here as a **reading lens**, not as automatic proof of int
 
 ## Station set in this starter build
 
-This starter version focuses on three well-known examples:
+The expanded library now includes eight station cases:
 
 - **E03** — “Lincolnshire Poacher”
+- **E07** — “English Man”
 - **HM01** — Cuban hybrid voice + digital format
+- **M12** — Morse station family case
+- **SK01** — hybrid digital/voice case
+- **V02a** — “Russian Man”
 - **V07** — Russian “Spanish Lady” format
+- **XPA / XPA2** — Russian voice family
 
-These are useful because they show three different relationships between numbers and structure:
-- repeated 5-digit group logic
+These are useful because they span multiple relationships between numbers and structure:
+- repeated 5-digit and fixed-group logic
 - daily or rotating counters
 - repeated three-part transmissions and null markers
+- Morse-mode grouped traffic
+- high-volume call-sign and schedule recurrence
 
 ## Suggested future expansions
 
@@ -114,7 +132,7 @@ These are useful because they show three different relationships between numbers
 
 ## Status of this repo
 
-This is a **starter research scaffold**: documentation is written, datasets are seeded, and the files are ready for manual expansion or later automation.
+This is an **expanding research scaffold**: documentation and datasets now cover multiple station families and are ready for further manual expansion or later automation.
 
 ## Sources
 
