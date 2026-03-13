@@ -3,3 +3,8 @@ h-001,V07,The three-part V07 relay invites symbolic triadic reading but is proba
 h-002,HM01,Counter progression in HM01 can be modeled as a renewal cycle rather than random numbering.,3,open,log counters across consecutive days,Could later support symbolic cycle analysis
 h-003,E03,E03's paired 5-digit body structure supports a 'doubling' motif in addition to standard cipher formatting.,2,open,compare with other 5-digit voice stations,Meaning remains speculative
 h-004,cross-station,Zero-heavy endings are more common in null or closure contexts than in active traffic bodies.,2,open,tag and compare outro patterns across stations,Could become a reusable repo-wide motif
+h-005,E07,E07 call-up recurrence can be modeled as a finite identifier pool rather than random selection.,3,open,log call-up IDs over long windows and test distribution,Supports stronger baseline for symbolic claims
+h-006,V02a,V02a header and group-count behavior will show operator-specific stable templates.,3,open,parse headers and compare by daypart,Could separate family signature from random variation
+h-007,M12,Morse-mode stations preserve the same motif classes seen in voice stations at the grouping level.,2,open,classify group segmentation across voice and Morse samples,Useful bridge hypothesis across transmission modes
+h-008,XPA,XPA high-volume logs can define statistical control bands for recurrence interpretation.,3,open,build weekday/month baseline frequencies from logs,Can reduce false symbolic positives
+h-009,SK01,Intermittent hybrid bursts create stronger observer bias than steady daily schedules.,2,open,compare motif rates in burst vs steady stations,Methodological guardrail hypothesis
